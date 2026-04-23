@@ -1,16 +1,16 @@
-print("Grade Checker Program")
+print("Program started")
 
 score = int(input("Enter score: "))
 
 if score >= 90:
-    print("Grade: A")
+    print("A")
 elif score >= 80:
-    print("Grade: B")
+    print("B")
 elif score >= 70:
-    print("Grade: C")
+    print("C")
 elif score >= 60:
-    print("Grade: D")
+    print("D")
 else:
-    print("Grade: F")
+    print("F")
 
 
