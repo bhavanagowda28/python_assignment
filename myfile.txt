@@ -1,0 +1,3 @@
+Hello Bhavana!
+This is file writing program.
+Python file handling is easy.
